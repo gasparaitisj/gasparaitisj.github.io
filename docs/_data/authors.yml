@@ -1,0 +1,15 @@
+Justas Gasparaitis:
+  name: Justas Gasparaitis
+  picture: /images/profile.png
+  email: gasparaitisjustas@gmail.com
+  twitter: gasparaitisj
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/gasparaitisj/
+      icon: fab fa-linkedin-in
+    - title: GitHub
+      url: https://github.com/gasparaitisj
+      icon: fab fa-github
+    - title: Medium
+      url: https://medium.com/@gasparaitisj
+      icon: fab fa-medium-m
