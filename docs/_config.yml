@@ -4,8 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Articles, posts & more.
 logo: "/images/profile.png" # path of site logo, e.g. "/assets/images/logo.png"
 locale: "en-us"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
