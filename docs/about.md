@@ -1,3 +1,7 @@
+---
+title: "About me"
+---
+
 I am on a relentless pursuit to realize every drop of potential I have in the field of Mobile Development, precisely, Android.
 
 It all started in my high school senior year with CS50, an online Computer Science course, which had an Android learning path.
