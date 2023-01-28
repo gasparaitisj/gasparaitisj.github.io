@@ -2,6 +2,7 @@ title: Justas Gasparaitis
 email: gasparaitisjustas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Articles, posts & more.
+baseurl: ""
 logo: "/images/profile.png" # path of site logo, e.g. "/assets/images/logo.png"
 locale: "en-us"
 
