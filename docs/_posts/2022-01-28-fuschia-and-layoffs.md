@@ -16,7 +16,7 @@ tags:
 # Google's Infamous Fuchsia OS & Mass Layoffs
 
 Google's built-from-scratch & open-source Fuchsia Operating System
-might just be one of the most company's most infamous projects.
+might just be one of the company's most infamous projects.
 
 Media outlets have been probing at Fuchsia OS becoming
 'the Android replacer' ever since its UI was revealed.
@@ -24,8 +24,10 @@ Media outlets have been probing at Fuchsia OS becoming
 [2](https://www.theverge.com/circuitbreaker/2017/5/8/15579846/google-fuchsia-os-magenta-armadillo-first-look-ui),
 [3](http://www.androidpolice.com/2017/05/08/googles-fuchsia-operating-system-taking-shape-new-design/))
 
-That didn't help making peoples'
-expectations shy - I've heard rumors and discussions
+That didn't help make peoples'
+expectations shy.
+<!--end_excerpt-->
+I've heard rumors and discussions
 on Fuchsia becoming the third mobile OS, along with Android & iOS,
 eventually replacing Android.
 
@@ -47,7 +49,7 @@ and definitely not for Big Tech:
 - [Survey:](https://www.ziprecruiter.com/blog/laid-off-tech-workers/)
 About 8 out of 10 techies, who lose their job, find a new one within 3 months.
 - [Factsheet](https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/):
-While growth has halted, most FAANG companies are still reaping in massive profits
+While growth has halted, most FAANG companies are still reaping massive profits
 by their latest quarter statements
 (_hard to sympathize, when they're sitting on mountains of cash anyway_).
 
